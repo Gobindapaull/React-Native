@@ -1,0 +1,17 @@
+{
+  "name": "moti",
+  "version": "1.0.0",
+  "description": "React Native Series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@motify/components": "^0.18.0",
+    "react": "^18.1.0",
+    "react-native": "^0.70.4"
+  }
+}
