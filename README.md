@@ -1,5 +1,6 @@
 # React-Native
 npx create-expo-app@latest .
+
 npm start
 
 npm i -g expo-cli
