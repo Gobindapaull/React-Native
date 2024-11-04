@@ -1,0 +1,13 @@
+React Native 2024
+Android and IOS app development
+
+examples : discord, Facebook
+
+Installation
+
+npx @react-native-community/cli@latest init nativeapp
+
+cd nativeapp
+npm start
+
+localhost:8081
